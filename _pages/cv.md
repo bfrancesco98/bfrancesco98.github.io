@@ -11,41 +11,38 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* PhD in Economics, University of Essex, 2029 (expected)
+* M.A. in Economics, Boston College, 2025
+* M.Sc. in Applied Economics, Universität Wien, 2024
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2024 - 2025 Graduate Assistant at Boston College
+  * Teaching Assistant
+  * Research Assistant
+  * Supervisors: Farid Farrokhi and Michele Biavati
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2023: Intern in the Research Department of the Austrian National Bank 
+  * Household Finance and Consumption Survey dataset
+  * Supervisor: Peter Lindner
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Economic Research
+* Coding
+  * Julia
+  * MATLAB
+  * Python
+  * R
+  * STATA
+
 
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
+Stay tuned
+ # <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+ # {% endfor %}</ul>
   
 Talks
 ======
@@ -59,6 +56,6 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+# Service and leadership
+# ======
+# * Currently signed in to 43 different slack teams
